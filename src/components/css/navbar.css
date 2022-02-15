@@ -1,0 +1,10 @@
+.colz .colz-icon i {
+    color: azure;
+    padding: 8px;
+    padding-left: 10px;
+}
+
+.colz .colz-icon i:hover{
+    transform: scale(1.07);
+   
+}
